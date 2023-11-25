@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stamselberg - an irrepressible Staff Software Engineer
+- 👀 I’m interested in frameworks, languages, AI
+- 🌱 I’m currently learning React
+- ⭐ I'm experienced in C#/C++/C, Python, JavaScript, SQL, Java, Taxcel (what that❔), and many others (including some assembly languages)
+- 📮 You can find me on LinkedIn: https://www.linkedin.com/in/rune-stamselberg-50433b1/
